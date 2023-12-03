@@ -1,0 +1,99 @@
+.home
+{
+  background-color: #7c27cb;
+  color: #000;
+  text-align: center;
+  font-size: 1.5vw;
+  font-weight: lighter;
+}
+
+.titulo
+{
+  font-size: 3vw;
+  font-weight: bolder;
+  margin-top: 1vw;
+}
+
+.user
+{
+  font-size: 1.25vw;
+  font-weight: lighter;
+  margin-bottom: 0.5vw;
+}
+
+.objeto
+{
+  font-size: 1.75vw;
+  font-weight: lighter;
+  margin-top: 1vw;
+  margin-bottom: 1vw;
+}
+
+.home p
+{
+  padding-left: 10vw;
+  padding-right: 10vw;
+}
+
+.home hr
+{
+  margin-top: 1vw;
+  margin-bottom: 1vw;
+  margin-left: 10vw;
+  margin-right: 10vw;
+}
+
+.links
+{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.introducao1
+{
+  margin-top: 8.9vw;
+  margin-bottom: 0.5vw;
+}
+
+.introducao2
+{
+  margin-top: 1vw;
+  margin-bottom: 0.5vw;
+}
+
+.objetos
+{
+  color: #fff;
+  text-decoration: none;
+}
+
+.objetos:hover
+{
+  color: #D3D3D3;
+}
+
+.descricao
+{
+  color: #fff;
+  text-decoration: none;
+  margin-bottom: 8.9vw;
+}
+
+.descricao:hover
+{
+  color: #D3D3D3;
+}
+
+.voltar
+{
+  color: #fff;
+  text-decoration: none;
+}
+
+.voltar:hover
+{
+  color: #D3D3D3;
+}
